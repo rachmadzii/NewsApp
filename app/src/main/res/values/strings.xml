@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title">Start Reading.</string>
+    <string name="subtitle">Pick the news today</string>
+    <string name="search">e.g tech, sports, film, games</string>
+    <string name="status">Result Search.</string>
+    <string name="date">March 01, 2021</string>
+    <string name="news_title">Whats Mobile Programming</string>
+    <string name="description">Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco...</string>
+    <string name="popular">Popular</string>
+    <string name="author">Author</string>
+</resources>
